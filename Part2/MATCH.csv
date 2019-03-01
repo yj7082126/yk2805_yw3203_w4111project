@@ -696,7 +696,7 @@ MID,MATCH_DATE,MATCH_TIME,VISITOR_TID,VISITOR_NAME,VISITOR_PTS,HOME_TID ,HOME_NA
 695,2019-01-21,10:30:00,10,Golden State Warriors,130,14,Los Angeles Lakers,111,18997
 696,2019-01-21,5:30:00,19,New Orleans Pelicans,105,15,Memphis Grizzlies,85,17794
 697,2019-01-21,2:00:00,7,Dallas Mavericks,106,17,Milwaukee Bucks,116,17963
-698,2019-01-21,12:30p,21,Oklahoma City Thunder,127,20,New York Knicks,109,19493
+698,2019-01-21,00:30:00,21,Oklahoma City Thunder,127,20,New York Knicks,109,19493
 699,2019-01-21,8:00:00,11,Houston Rockets,93,23,Philadelphia 76ers,121,20313
 700,2019-01-21,9:00:00,25,Portland Trail Blazers,109,29,Utah Jazz,104,18306
 701,2019-01-21,2:00:00,9,Detroit Pistons,87,30,Washington Wizards,101,16229
